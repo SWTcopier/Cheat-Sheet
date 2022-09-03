@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters]
+"EnablePlainTextPassword"=dword:00000000
+"EnableSecuritySignature"=dword:00000001
+"RequireSecuritySignature"=dword:00000000
+"ServiceDll"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,\
+  00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,\
+  77,00,6b,00,73,00,73,00,76,00,63,00,2e,00,64,00,6c,00,6c,00,00,00
+"ServiceDllUnloadOnStop"=dword:00000001
+"AllowInSecureGuestAuth"=dword:00000001
